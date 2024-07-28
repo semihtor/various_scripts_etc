@@ -1,3 +1,5 @@
+# This script will download a file, write it to Linux null file, output the download speed in MB/s, wait for 5 seconds and repeat it again.
+
 #!/bin/sh
 count=0
 while [ 1 ]; do
